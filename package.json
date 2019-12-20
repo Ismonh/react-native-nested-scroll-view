@@ -1,5 +1,5 @@
 {
-  "name": "react-native-nested-scroll-view",
+  "name": "ismonh-react-native-nested-scroll-view",
   "version": "9.0.0",
   "description": "React Native ScrollView replacement with NestedScrollView",
   "main": "index.js",
@@ -9,5 +9,19 @@
     "nested-scroll"
   ],
   "author": "Cesar Augusto <cesardeazevedo@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ismonh/react-native-nested-scroll-view.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ismonh/react-native-nested-scroll-view/issues"
+  },
+  "homepage": "https://github.com/Ismonh/react-native-nested-scroll-view#readme"
 }
